@@ -95244,7 +95244,7 @@ return r},
 $S:600}
 A.ahh.prototype={
 $0(){var s=new A.a7t(this.a.$1$0(t.kE))
-s.b="https://circuler-backend-2.onrender.com/"
+s.b="http://localhost:3108/"
 return s},
 $S:601}
 A.awX.prototype={}
