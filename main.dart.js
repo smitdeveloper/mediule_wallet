@@ -95855,7 +95855,7 @@ return r},
 $S:610}
 A.ahJ.prototype={
 $0(){var s=new A.a7P(this.a.$1$0(t.kE))
-s.b="http://89.116.21.232:3108/"
+s.b="https://circuler-backend.onrender.com/"
 return s},
 $S:611}
 A.axy.prototype={}
