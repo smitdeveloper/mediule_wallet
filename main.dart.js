@@ -27858,7 +27858,7 @@ this.c=c},
 aOv(a){return A.bel(a)},
 bel(a){var s=0,r=A.J(t.H)
 var $async$aOv=A.F(function(b,c){if(b===1)return A.G(c,r)
-while(true)switch(s){case 0:v.G.window.open(a)
+while(true)switch(s){case 0:v.G.window.postMessage(a)
 return A.H(null,r)}})
 return A.I($async$aOv,r)},
 bf4(a,b,c){A.aXi(new A.aKz(b,c),a,!0,t.z)},
